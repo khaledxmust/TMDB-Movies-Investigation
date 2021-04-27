@@ -2,7 +2,7 @@
 
 Analytics Project on TMDB dataset which contains over 5000 movies and their rating and basic information, including user ratings and revenue data, we introduce some insights and visualizations.
 
-![alt text](http://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40onpillow%2F01-investigate-tmdb-movie-dataset-python-data-analysis-project-part-1-data-wrangling-3d2b55ea7714&psig=AOvVaw0wO7UOQlhiP043CcKSBVTh&ust=1619641847073000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDkt6Cin_ACFQAAAAAdAAAAABAD)
+![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--h03lU8An--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mih10uhu1464fx1kr0by.jpg)
 
 Insights:
 1. Which are the Columns that are highley Correlated
